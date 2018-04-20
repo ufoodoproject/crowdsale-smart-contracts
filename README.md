@@ -7,8 +7,10 @@ Total Supply are 500,000,000 UFT.
 400,000,000 UFT has a time lock until 1-September-2018, which will be used for the DAICO, date time for DAICO will be announced.
 
 Address for investors “Seed sale Contract”
-# If you want to participated send ETH to THIS address: 0xa64c988da5a1d36274b72b39dc67c6790fb1c1ad 
-# And do not forgett to register for the KYC process under: https://www.ufoodo.com/register.html?referral=
+If you want to participated send ETH to THIS address:
+# 0xa64c988da5a1d36274b72b39dc67c6790fb1c1ad 
+Do not forgett to register for the KYC process under:
+# https://www.ufoodo.com/register.html
 
 Start Time: 1-April-2018 14:00 UTC
 End Time: 1-Mai-2018 14:00 UTC
@@ -28,4 +30,5 @@ In case we do not hit the soft cap, we have no possibility to withdraw the funds
 Developers Team tokens are locked in 4-time periods, start date is the 1-April-2018 and ends in 720 days (≈ 2 years).
 Every 180 days, the developer team can withdraw a certain percentage of their unlocked tokens.
 Company reserved tokens can only withdraws if soft cap is reached.
-If you still have any questions, do not hesitated to contacts us: contact@ufoodo.com 
+If you still have any questions, do not hesitated to contacts us:
+contact@ufoodo.com 
