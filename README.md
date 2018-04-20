@@ -1,5 +1,6 @@
 # Ufoodo Smart contract overview
 ERC20 ufoodo Token contract: 0xeea22ba8819ed2b1c2e85f44543fbe11f54f9617
+
 The token contract act as a token Vault, which holds all created ufoodo tokens.
 Total Supply are 500,000,000 UFT.
 100,000,000 UFT is available for the seed sale.
